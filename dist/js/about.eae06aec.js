@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["about"],{f820:function(t,n,e){"use strict";e.r(n);var l=function(){var t=this,n=t.$createElement,e=t._self._c||n;return e("div",{staticClass:"about"},[e("NavBar",{attrs:{leftData:"上一页",rightData:"下一页",title:"首页"},on:{left:t.leftFn,right:t.rightFn}})],1)},o=[],a={methods:{leftFn:function(){console.log("向上翻一页")},rightFn:function(){console.log("向上翻一页")}}},i=a,s=e("2877"),r=Object(s["a"])(i,l,o,!1,null,null,null);n["default"]=r.exports}}]);
-//# sourceMappingURL=about.eae06aec.js.map
